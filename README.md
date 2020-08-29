@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+I am Gabriel. I am an associate professor in the Department of Health Technology at the Technical University of Denmark 🇩🇰. I am mostly interested in Bayesian/maximum-likelihood methods applied to modern and ancient DNA and sequencing in general.
+
+You will find different repositories for various software I have coded with various collaborators. If you have any trouble (bug, installation, weird results), feel free to create an issue. I accept/welcome pull requests 😉.
+
 
 <!--
 **grenaud/grenaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
