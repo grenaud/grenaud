@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Gabriel. I am an associate professor in the Department of Computer Science and Software Engineering at Laval University 🏴󠁣󠁡󠁱󠁣󠁿🇨🇦. I am mostly interested in Bayesian/maximum-likelihood methods applied to modern and ancient DNA, environmental DNA, forensics and sequencing in general.
+I am Gabriel. I am an associate professor in the Department of Computer Science and Software Engineering at University Laval in Quebec City, Quebec 🏴󠁣󠁡󠁱󠁣󠁿, Canada 🇨🇦. I am mostly interested in Bayesian/maximum-likelihood methods applied to modern and ancient DNA, environmental DNA, forensics and sequencing in general.
 
 You will find various repositories for different software that I have coded with collaborators. If you have any trouble (bug, installation, weird results), feel free to create an issue. I accept/welcome pull requests 😉.
 
